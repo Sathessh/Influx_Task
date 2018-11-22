@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/black">
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/gravity"
+        />
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@color/colorAccent">
+
+            <android.support.v7.widget.AppCompatTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white"
+                    android:textColor="@android:color/black"
+                    android:padding="10dp"
+                    android:text="@string/satheesh_cineamas"
+                    android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="horizontal"-->
+            <!--android:id="@+id/lnrDateContent"-->
+            <!--android:padding="10dp">-->
+
+            <!--</LinearLayout>-->
+
+            <android.support.v4.view.ViewPager
+                    android:id="@+id/viewpagerDate"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+                android:id="@+id/container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginBottom="0dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:orientation="vertical">
+
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

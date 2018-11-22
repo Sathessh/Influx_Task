@@ -1,0 +1,1841 @@
+{
+  "result": {
+    "dates": [
+      {
+        "date": "23-11-2018",
+        "movies" : [
+          {
+            "moviewName" : "96",
+            "timings": [
+              {
+                "timing": "07:00 AM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "11:00 AM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "02:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "06:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "10:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "moviewName" : "Vada Chennai",
+            "timings": [
+              {
+                "timing": "07:00 AM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "11:00 AM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "02:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "06:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "10:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "moviewName" : "Ratchasan",
+            "timings": [
+              {
+                "timing": "07:00 AM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "11:00 AM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "02:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "06:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "timing": "10:00 PM",
+                "seats": [
+                  {
+                    "rowName": "A",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "B",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "C",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "rowName": "D",
+                    "seats": [
+                      {
+                        "no": "1",
+                        "status": "1"
+                      },
+                      {
+                        "no": "2",
+                        "status": "0"
+                      },
+                      {
+                        "no": "3",
+                        "status": "0"
+                      },
+                      {
+                        "no": "4",
+                        "status": "0"
+                      },
+                      {
+                        "no": "5",
+                        "status": "0"
+                      },
+                      {
+                        "no": "6",
+                        "status": "0"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
